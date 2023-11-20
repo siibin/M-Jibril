@@ -1,0 +1,13 @@
+UTS Pemrograman Web
+Soal 1: Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah atau istilah).
+Jawab : Framework pada pengembangan aplikasi merujuk pada kerangka kerja yang digunakan untuk membangun dan mengembangkan aplikasi atau sistem. Framework menyediakan struktur, aturan, dan alat yang diperlukan untuk mempercepat pengembangan perangkat lunak dengan menyediakan komponen-komponen dasar, pola desain, atau praktik terbaik yang dapat digunakan secara konsisten. Dalam pemrograman, framework merupakan suatu kerangka kerja yang digunakan untuk mempermudah pengembangan aplikasi yang kita buat. 
+Soal 2 :
+* Sebutkan tema proyek yang sedang digarap!
+Tema Proyek : Klinik
+* Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+1. Muhammad Jibril Satya P : Programer
+2. Nurul Latifah : Analisis dan Laporan
+3. Iis Mayanti : Design UI dan UML
+* Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+1. Permasalahan : Klinik yang kita wawancarai tidak memiliki aplikasi untuk pembelian obat secara online.
+2. Solusi : Kami membuat aplikasi agar lebih mempermudah pasien membeli obat secara online.
